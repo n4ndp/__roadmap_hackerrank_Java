@@ -12,6 +12,11 @@
   * Control de flujo: if, switch, for, while, do-while
   * Métodos y paso de parámetros
 
+* **Colecciones básicas y manejo de datos**
+
+  * Colecciones List, Set, Map (ArrayList, HashSet, HashMap)
+  * Iteradores y bucles foreach
+
 * **Programación Orientada a Objetos (POO)**
 
   * Clases y objetos
@@ -21,11 +26,6 @@
   * Interfaces y clases abstractas
   * Clases finales
   * Sobrecarga y sobreescritura de métodos
-
-* **Colecciones básicas y manejo de datos**
-
-  * Colecciones List, Set, Map (ArrayList, HashSet, HashMap)
-  * Iteradores y bucles foreach
 
 * **Manejo de errores y entrada/salida**
 
